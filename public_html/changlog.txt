@@ -1,0 +1,109 @@
+Change Log
+2.5
+	Fixed bugs with resistances being mis-calculated
+	Added optimizes to builds page(now loads 50-70% quicker)
+	Fixed bug where you could select multiple single attainable spells
+2.4
+	Added more features to the build page viewer
+	(stat previews, favoriting and up/down voting)
+	Fixed image mix up between large club and great club
+	Fixed many bugs asscociated with the arrow selector
+	Added a random generator
+2.3
+	Fixed the mis-calculation with raw and normal bows
+	Merged all weapon calculators into one page
+	Added an arrow selector for bows
+2.2
+	Fixed Magic adjustment values for logans catalyst
+	Fixed bug where adding then removing a seance ring would keep the extra slot
+	Fixed bug where humanity values wouldnt update weapon AR
+2.1
+	Changed builds displayed from 50 to 75 and added a total builds display
+	Fixed bugs where dragonslayer spear lighting ar values wouldnt update
+2.0
+	Officially took the builder out of beta
+1.9
+	Fixed many bugs introduced with my optimizations
+	Added buff damage calculator
+	Added bunch of mini calculators
+	Added a tinyurl auto maker
+	Fixed logan's catalyst magic adjustment
+	Fixed seance rings upodating
+1.8
+	Text export now includes spells
+	Changed uploading even further.  Added artificial wait
+	Added an option for unnerfed Elite Knight poise values
+	Added a lot of optimizations
+1.7
+	Added a time limit on saving builds to ~1 minute
+	Made successful uploads more apparent and disabled the save button so you cant hit it repeatedly
+	Fixed moonlight great sword ar values
+	Fixed bug where link wouldnt save the 2hand state
+1.6
+	Added blood shield resistance increases
+	Added a savelink feature.  Uploads your builds to the server and allows other to view it
+	Fixed covetous ring/avarice item discovery bug
+	Fixed a couple typos
+1.5
+	Added a covenant selector and spell selector
+1.4
+	Included a text export feature
+	Changed behaivour of the path selector for weapons making it more prominent
+1.3
+	Added an faq page
+	Fixed remaining 2 hand bugs
+	Fixed some typos
+1.2
+	Changed organization of weapons to Dark Souls defaults
+	Fixed head gear bugs when changing stats
+1.1
+	Fixed various magic adustment values
+	Changed 2 handing weapons behaivour
+1.0 BETA RELEASE
+	Added weapon AR calculators
+	Including all shields, talismans, catalysts, with every upgrade for all other weapons
+	Added a '2 hand' option
+.9d
+	Fixed sharelink but with humanity not loading
+	Added all weapon and armor effects
+	Added active weapon selector
+.85d
+	Applying changes made through the best class finder no longers reverts armor/weapons to default
+	Stats you enter into the base editor not automaticly edit the best class finder
+	Added a settings menu
+	Fixed sharelink bug where rings were not loading
+.8d
+	Added a seperate best class finder
+	Changed sorting of best classes by soul level/resistance
+	Completely overhauled defense value formulas
+	Fixed auto deselect bug when clicking on an input
+.75d
+	Add cache busting timestamps
+	Fixed mixed up weight values with laito and washingpole
+	Added a sharelink generator
+.71d
+	Disabled the best class finder
+.7d
+	Implemented a best class finder into the base editor
+	Added weapon selector for weight values
+	Unlocked the rings select
+	Put humanity at 0 when starting a build
+	Fixed another refresh bug introduced with weapons
+.6d
+	Fixed refresh bug where stats were no longer cleared by adding a revert to default icon
+	Fixed multiple typos
+	Fixed the offset to the soul cost/total box and reworded the text for it
+	Made minor changes to defense calculating
+	Added Mask of the mother/father effects
+.5d
+	Holding shift while clicking up/down arrows will affect it by a value of 10
+	Fixed bug where manually leveling up locked the souls and level counter
+	Fixed where 27 attunement gave you 67 slots
+	Fixed more typos
+	Humanity is no longer stuck at 99
+	Fixed opera compatibility
+.45d
+	When changing classes, keeps edited stats
+	Fixed multiple typos
+.4d
+	Initital development release
